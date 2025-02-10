@@ -13,12 +13,12 @@
     <li>
       <a href="#Empecemos">Empecemos</a>
       <ul>
-        <li><a href="#¿Cómo-me-organizo?">Checklist</a></li>
-        <li><a href="#Vamos-paso-a-paso">Mi paso a paso</a></li>
+        <li><a href="#¿Cómo-me-organizo?">¿Cómo me organizo?</a></li>
+        <li><a href="#Vamos-paso-a-paso">Vamos paso a paso</a></li>
       </ul>
     </li>
     <li><a href="#Pongamoslo-a-prueba">Pongamoslo a prueba</a></li>
-    <li><a href="#Pruebalo-en-tu-local">Roadmap</a></li>
+    <li><a href="#Pruebalo-en-tu-local">Pruebalo en tu local</a></li>
   </ol>
 </details>
 
