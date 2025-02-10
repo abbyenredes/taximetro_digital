@@ -23,6 +23,7 @@
 </details>
 
 ## Acerca del proyecto
+Vamos a modernizar el sistema de taxis a la vez que practicamos el uso de python, en este reto nos enfrentaremos con el uso de clases y funciones que nos permitan calcular el precio de un trayecto ya sea mientras esta el taxi en pausa o en movimiento (los taximetros no paran hasta terminar el trayecto). Acompañame a esta aventura.
 
 ### Estado del proyecto
 
@@ -48,6 +49,8 @@
 > [!WARNING]
 > 
 > Todo lo escrito es en base a mi experiencia, cada quien tiene su propio camino y tiempo. Espero que lo tomes como un complemento a tu formación y no como las sagradas escrituras.
+
+#### Desmenuzando el programa
 
 ## Pongamoslo a prueba
 
