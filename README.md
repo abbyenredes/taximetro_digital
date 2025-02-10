@@ -29,6 +29,10 @@
 :construction: Proyecto en construcción :construction:
 
 ### Mis herramientas
+* Aprende a usar jira en 15 minutos: [jira](https://www.youtube.com/watch?v=fIHFcMy-Azo)
+* Crea commits convencionales: [conventional commits](https://dev.to/achamorro_dev/conventional-commits-que-es-y-por-que-deberias-empezar-a-utilizarlo-23an)
+* : []()
+* : []()
 * : []()
 * : []()
 
