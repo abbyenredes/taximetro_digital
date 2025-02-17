@@ -32,7 +32,7 @@ Vamos a modernizar el sistema de taxis a la vez que practicamos el uso de python
 ### Mis herramientas
 * Aprende a usar jira en 15 minutos: [jira](https://www.youtube.com/watch?v=fIHFcMy-Azo)
 * Crea commits convencionales: [conventional commits](https://dev.to/achamorro_dev/conventional-commits-que-es-y-por-que-deberias-empezar-a-utilizarlo-23an)
-* : []()
+* Crea diagramas UML: [draw.io](https://app.diagrams.net/)
 * : []()
 * : []()
 * : []()
@@ -51,8 +51,19 @@ Vamos a modernizar el sistema de taxis a la vez que practicamos el uso de python
 > Todo lo escrito es en base a mi experiencia, cada quien tiene su propio camino y tiempo. Espero que lo tomes como un complemento a tu formación y no como las sagradas escrituras.
 
 #### Desmenuzando el programa
-Antes de empezar a picar código me gusta implementar un diagrama UML y un pequeño pseudocódigo de lo que será mi programa. Hago esto no solo por tener buenas prácticas, también para que me sirva de guía en el estimado del tiempo que le dedicaré. Esto es totalmente flexible y se puede modelar según lo que vaya aprendiendo a lo largo del desarrollo del programa.
+Antes de empezar a picar código me gusta implementar un diagrama UML de lo que será mi programa. Hago esto no solo por tener buenas prácticas, también para que me sirva de guía en el estimado del tiempo que le dedicaré. Esto es totalmente flexible y se puede modelar según lo que vaya aprendiendo a lo largo del desarrollo del programa.
 
+![UML](https://github.com/abbyenredes/taximetro_digital/blob/main/img/tax%C3%ADmetro(b%C3%A1sico).drawio.png)
+
+A raiz de este diagrama voy a crear la estructura basica de mi código para así poder hacerme una idea de que conocimientos necesito y que debo reforzar:
+
+📂 taximetro.py  
+├── **Clase Taximetro** (Lógica del cálculo de tarifas)  
+├── **Métodos:**  
+│   ├── `iniciar_viaje()` (Resetea y empieza el conteo)  
+│   ├── `cambiar_estado(nuevo_estado)` (Alterna entre parado y en movimiento)  
+│   ├── `finalizar_viaje()` (Calcula el total y finaliza el viaje)  
+├── **Función `main()`** (Menú interactivo en la terminal)  
 
 ## Pongamoslo a prueba
 
