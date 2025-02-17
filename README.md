@@ -51,6 +51,8 @@ Vamos a modernizar el sistema de taxis a la vez que practicamos el uso de python
 > Todo lo escrito es en base a mi experiencia, cada quien tiene su propio camino y tiempo. Espero que lo tomes como un complemento a tu formación y no como las sagradas escrituras.
 
 #### Desmenuzando el programa
+Antes de empezar a picar código me gusta implementar un diagrama UML y un pequeño pseudocódigo de lo que será mi programa. Hago esto no solo por tener buenas prácticas, también para que me sirva de guía en el estimado del tiempo que le dedicaré. Esto es totalmente flexible y se puede modelar según lo que vaya aprendiendo a lo largo del desarrollo del programa.
+
 
 ## Pongamoslo a prueba
 
