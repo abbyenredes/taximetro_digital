@@ -27,22 +27,20 @@ Vamos a modernizar el sistema de taxis a la vez que practicamos el uso de python
 
 ### Estado del proyecto
 
-:construction: Proyecto en construcción :construction:
+**:white_check_mark: Proyecto finalizdo :white_check_mark:**
 
 ### Mis herramientas
 * Aprende a usar jira en 15 minutos: [jira](https://www.youtube.com/watch?v=fIHFcMy-Azo)
 * Crea commits convencionales: [conventional commits](https://dev.to/achamorro_dev/conventional-commits-que-es-y-por-que-deberias-empezar-a-utilizarlo-23an)
 * Crea diagramas UML: [draw.io](https://app.diagrams.net/)
 * Sobre clases en python: [clases](https://blog.hubspot.es/website/clases-python)
-* : []()
-* : []()
+* Pon colores en tu terminal: [colores](https://www.tempmail.us.com/es/python/mostrar-texto-en-color-en-la-terminal-python)
 
 ## Empecemos
 
 ### ¿Cómo me organizo?
 
 - Accede a mi kanban de jira: [Kanban](https://abigailmasapanta.atlassian.net/jira/software/projects/TAX/boards/3?atlOrigin=eyJpIjoiMWFmMjJjMDg0ZWQwNDZhMWE4M2MyMzAxYjVkMzI2YzQiLCJwIjoiaiJ9)
-- [ ]
 
 ### Vamos paso a paso
 
@@ -103,7 +101,7 @@ Con esta lógica vamos a realizar nuestro último método `end_trip()` para fina
 Creamos un menú sencillo a base de concicionales del 1-4; Para finalizar creo el método main en el que se ejecutara mi código que a su vez tiene un submenú que pregunta al usuario si quiere iniciar un nuevo trayecto, en el cual uso el método lower para poner en minúscula tanto "Y" como "N".
 ## Pongamoslo a prueba
 
-![](link)
+![](https://github.com/abbyenredes/taximetro_digital/blob/main/img/taximetro-_1_.gif)
 
 ## Pruebalo en tu local
 Descargate mi repositorio:
